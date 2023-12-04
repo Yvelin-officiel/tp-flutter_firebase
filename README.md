@@ -7,7 +7,7 @@ Projet Final - Application de Notes avec Firebase et Flutter
 - Création, modification et suppression de notes depuis l'appli et sur la BDD
 - Upload d'image depuis les fichiers du mobile avec demande d'autorisation (firebase storage)
 
-/!\ la demande d'autorisation pour accèder aux fichier peut ne pas fonctionné sur émulateur.
+/!\ la demande d'autorisation pour accèder aux fichiers peut ne pas fonctionné sur émulateur.
 
 # Rapport
 # Défis rencontrés: 
