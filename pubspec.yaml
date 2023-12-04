@@ -1,0 +1,27 @@
+name: firebase_app
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies:
+  cloud_firestore: ^4.13.0
+  firebase_core: ^2.22.0
+  file_picker: ^4.5.1
+  firebase_storage: ^11.5.3
+  permission_handler: 11.0.1
+  flutter:
+    sdk: flutter
+  firebase_auth: ^4.13.0
+  top_modal_sheet: ^2.0.1
+  image_picker: ^1.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
