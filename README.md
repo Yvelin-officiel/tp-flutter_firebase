@@ -1,7 +1,6 @@
-# tp-flutter_firebase
-Projet Final - Application de Notes avec Firebase et Flutter
+#Projet Final - Application de Notes avec Firebase et Flutter
 
-# Fonctionnalités
+## Fonctionnalités
 - Service d'authentification fonctionnel (inscripton, connexion et déconnexion)
 - Affichage des notes propres utilisateur récupérer depuis la base de données Firebase
 - Création, modification et suppression de notes depuis l'appli et sur la BDD
@@ -9,7 +8,7 @@ Projet Final - Application de Notes avec Firebase et Flutter
 
 /!\ la demande d'autorisation pour accèder aux fichiers peut ne pas fonctionné sur émulateur.
 
-# Rapport
+## Rapport
 # Défis rencontrés: 
 - Externalisation des widgets qui créer parfois des anomalies invisible
 - Utilisation et compréhension de firebase, firestore, firebasefirestore...
